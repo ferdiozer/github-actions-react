@@ -3,6 +3,10 @@
 When commit or merge to the master branch. Automatically deploy to gh-pages branch.
 
 
+
+[Live](https://ferdiozer.github.io/github-actions-react/)
+
+
 - .github/workflows/deploy.yml 
 ```
 name: Build & deploy
